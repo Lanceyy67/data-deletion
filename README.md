@@ -1,1 +1,1 @@
-# data-delition
+# data-deletion
